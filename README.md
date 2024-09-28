@@ -1,4 +1,4 @@
-# Puneeth-Gowda-TG
+# Simple Reminder Application
 Simple Reminder Application
 
 The user should be able to ...
